@@ -1011,9 +1011,10 @@ app.listen(PORT, () => {
   console.log(`🚀 Server running on port ${PORT}`);
   console.log(`📦 Version: ${process.env.VERSION || '1.0.0'}`);
 });
-EOF
+```
 
 # Commit และ Push
+```bash
 git add server.js
 git commit -m "Update: Test CI/CD pipeline with pull-based runner"
 git push origin main
