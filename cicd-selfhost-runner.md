@@ -1223,6 +1223,15 @@ watch -n 10 ./monitor.sh
 
 </details>
 
+
+### 5. nginx คืออะไร และการทำ Revers Proxy ใน nginx มีความสำคัญอย่างไร
+<details>
+<summary>คำตอบ</summary>
+```txt
+ เขียนคำตอบลงในช่องนี้
+```
+
+</details>
 ---
 
 ## เอกสารอ้างอิง
