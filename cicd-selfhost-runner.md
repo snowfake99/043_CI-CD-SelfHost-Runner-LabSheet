@@ -1,11 +1,11 @@
  # ใบงาน: การ Deploy แอปพลิเคชันด้วย GitHub Actions และ Self-Hosted Runner
 ## วัตถุประสงค์
 
-1. เพื่อเข้าใจแนวคิดและหลักการทำงานของ Self-Hosted Runner แบบ Pull-based Model
-2. เพื่อสามารถติดตั้งและกำหนดค่า Self-Hosted Runner บนเครื่อง local
-3. เพื่อเข้าใจกระบวนการ Polling และการสื่อสารระหว่าง Runner กับ GitHub
-4. เพื่อสร้าง CI/CD Pipeline สำหรับ Deploy แอปพลิเคชันไปยัง on-premise server
-5. เพื่อเรียนรู้การตั้งค่า Reverse Proxy ด้วย Nginx สำหรับ Production Environment
+1. อธิบายหลักการทำงานของ Self-Hosted Runner แบบ Pull-based Model ได้
+2. ติดตั้งและกำหนดค่า Self-Hosted Runner บนเครื่อง local ได้
+3. อธิบายกระบวนการ Polling และการสื่อสารระหว่าง Runner กับ GitHub ได้
+4. สร้าง CI/CD Pipeline สำหรับ Deploy แอปพลิเคชันไปยัง on-premise server ได้
+5. ตั้งค่า Reverse Proxy ด้วย Nginx สำหรับ Production Environment ได้
 
 ## ทฤษฎีที่เกี่ยวข้อง
 
